@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834994494688",
+    "firebase_url": "https://incubatorpro-b6b21.firebaseio.com",
+    "project_id": "incubatorpro-b6b21",
+    "storage_bucket": "incubatorpro-b6b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834994494688:android:d45b7b376f1a3852",
+        "android_client_info": {
+          "package_name": "com.dola.incubatorpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834994494688-v0ll3lebfrlpvnfak9ke62tkslg4rab9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dola.incubatorpro",
+            "certificate_hash": "c484ce3c1d5e69652d6d3f92c52ef53a2a0f5186"
+          }
+        },
+        {
+          "client_id": "834994494688-g9rlv6bqls51r8576m98sn939gd9stbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBbFIG6TqUhuJpWDEdeGCggS3fzBG9jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834994494688-g9rlv6bqls51r8576m98sn939gd9stbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

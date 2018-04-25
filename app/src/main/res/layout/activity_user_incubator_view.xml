@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserIncubatorView">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/incubator1"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:background="#455A64"
+                android:padding="50dp"
+                android:text="Incubator1"
+                android:textColor="#fff"
+                android:textSize="40dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/incubator2"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:background="#546E7A"
+                android:padding="50dp"
+                android:text="Incubator2"
+                android:textColor="#fff"
+                android:textSize="40dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/incubator3"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:background="#455A64"
+                android:padding="50dp"
+                android:text="Incubator3"
+                android:textColor="#fff"
+                android:textSize="40dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/incubator4"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:background="#546E7A"
+                android:padding="50dp"
+                android:text="Incubator4"
+                android:textColor="#fff"
+                android:textSize="40dp"
+                android:textStyle="italic" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
